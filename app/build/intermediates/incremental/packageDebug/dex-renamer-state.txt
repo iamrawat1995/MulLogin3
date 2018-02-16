@@ -1,0 +1,7 @@
+#Wed Feb 14 15:51:25 IST 2018
+base.0=C\:\\Users\\ANKIT RAWAT\\AndroidStudioProjects\\Multiplelogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7fff28cf0242f5e2a1f8e381f4f68ebbb82954c6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ANKIT RAWAT\\AndroidStudioProjects\\Multiplelogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9dbf7e433d05f8570a834184a6e459ace71e7ec1\\classes.dex
+base.1=C\:\\Users\\ANKIT RAWAT\\AndroidStudioProjects\\Multiplelogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9dbf7e433d05f8570a834184a6e459ace71e7ec1
+file.0=C\:\\Users\\ANKIT RAWAT\\AndroidStudioProjects\\Multiplelogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7fff28cf0242f5e2a1f8e381f4f68ebbb82954c6\\classes.dex

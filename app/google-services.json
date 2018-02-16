@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "360292714630",
+    "firebase_url": "https://mullogin.firebaseio.com",
+    "project_id": "mullogin",
+    "storage_bucket": "mullogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360292714630:android:1869f6bfb0ef797d",
+        "android_client_info": {
+          "package_name": "com.example.ankitrawat.multiplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360292714630-lttjuieaq1ri6ruq8658k3il8o5jh3am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ankitrawat.multiplelogin",
+            "certificate_hash": "afa50682699c943bf54dfc5979b5236915e6918c"
+          }
+        },
+        {
+          "client_id": "360292714630-sn0hf8ab62mdmrtvgpomenuel4g6pqk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRH30Gc5QsgaOT0iv3bOFLarJvpIM9bPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360292714630-sn0hf8ab62mdmrtvgpomenuel4g6pqk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\.android\build-cache\44abfb6e24e4c60af5ab5664f870a338294ee772\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1595f89c34d3aa4c9883eab72530b6ee57959bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\.android\build-cache\e1e0d6f7958fa2ecc3b1f8b49d7de8efe7d3871e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_139c838ef49702197119dba50ce4e192b6221357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\.android\build-cache\85c96007b7cddef6afe2b01021819219c1aaae51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c691526a18e2118f031a0fd722d8c687963b8d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\.android\build-cache\f72bcccd53f083f4baa5b5c9fb2daa273d7e7ab6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7dd60493a70483e65a6a1408bbb2c5282b18f03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\.android\build-cache\db384791252d5619056b0c7438429005482df3c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0428ed348e26ed42265a53b2ebfe17499871d387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\.android\build-cache\986e6e3349789d7d01794affc70109bdc9801f49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97c7b893ea90b7a597d9dee6ad6cc8039d8c7f04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9dbf7e433d05f8570a834184a6e459ace71e7ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a89816da5f399b6da9fc57e0e8609edb949290d8">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7fff28cf0242f5e2a1f8e381f4f68ebbb82954c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ANKIT RAWAT\.android\build-cache\e62809623bd276f0b9aaa7c4bfd885eef96a6071\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\ANKIT RAWAT\AndroidStudioProjects\Multiplelogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_768065a9bb3584ec43fded3c8176c4674cefdd7a\classes.dex" />
+    </item>
+
+</items>
